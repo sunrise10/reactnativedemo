@@ -2,7 +2,8 @@ import React, {Component} from 'react';
 import SplashScreen from 'react-native-splash-screen';
 import {Image, InteractionManager, StyleSheet} from 'react-native';
 import TabNavigator from 'react-native-tab-navigator';
-import MainPage from "./MainPage";
+//import MainPage from "./MainPage";
+import MainPage from "./City";
 import Discover from "./Discover";
 import Mine from "./Mine";
 

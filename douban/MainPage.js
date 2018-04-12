@@ -14,8 +14,7 @@ export default class MainPage extends Component {
                     backgroundColor={'white'} //状态栏的背景色
                     translucent={false}//指定状态栏是否透明。设置为true时，应用会在状态栏之下绘制（即所谓“沉浸式”——被状态栏遮住一部分）。常和带有半透明背景色的状态栏搭配使用。
                     barStyle={'dark-content'} // enum('default', 'light-content', 'dark-content')
-                >
-                </StatusBar>
+                />
                 <View style={styles.top}>
                     <Text style={styles.locationText}>杭州</Text>
                     <Image source={require('../android/app/src/main/res/drawable-xxhdpi/arrow_down.png')}

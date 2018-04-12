@@ -12,6 +12,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/RN/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81545e78a5aef654b2e0aac62b2be5ad8ad7b908">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/RN-react-native-splash-screen-unspecified_2f1b38918d7bc867686babca22710b0025a1e9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9644834bb403cfd73f5695b908a933c1ff236217">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.5.0_93503b2e4f54e9ee5c3fdf2c092365c324ff8f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jinke/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
@@ -27,6 +45,24 @@
         revision="23.0.1"
         sha1="da8b8f3f1fed75b39f0b9228bea5512f10bfff6f">
         <dex dex="/Users/jinke/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.5.0_5097f56a55c4bc18bc89e07a2d1e9af7c1a8acc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bf2709be142a2d0784d5e548842026dc28079dc">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.5.0_9932fcccb52b88ec46a86174128e4da1f1d5ecdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b6078f1647ef42c021a677eabc44a8999277d1d5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_396fc3a6cb0a39deeae76644c6bb8da959a15546.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jinke/RN/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -63,6 +108,15 @@
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/Users/jinke/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ac31c1a5a52903082615ee525dc83018e4f1b1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_4d2ee13706e10afa2f3ce06a9a07dc6963ff4582.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,6 +138,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_59d8fa13305218376f13ae0b41cf784c120357ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jinke/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +162,33 @@
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
         <dex dex="/Users/jinke/RN/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6886f85b55d952aef7ee0b5a65867b4c9b9b3881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9602d1e79216cd0e61d22fad40caee64365f29ac">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.5.0_8aa3f5b7389fe012466351939ee373ed7f907ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b3949978d5c50bc27d8077d67622a3f9a580dee4">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-gif-1.5.0_67ff88ea64e6873b031b515ad54d9d542aaab59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_7bcc3d67a5e0ea848f68a791c756d5dfae212489.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,6 +210,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cdf7493923bc608dadd034f2558be5c07aad19ab">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-base-1.5.0_9a79c27794a95bb655a175ff496182af42c4ba9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jinke/RN/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -135,6 +234,24 @@
         revision="23.0.1"
         sha1="71e22619df25643022a7f7281461ef5e926141be">
         <dex dex="/Users/jinke/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_4b5b5201b16f4cf16e28a9393350c275463b9867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da8b8f3f1fed75b39f0b9228bea5512f10bfff6f">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.5.0_e354a60a5d0d69494df897f2d614e2c8d12d76c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-drawable/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef9622fcbd4baf54f4c6ac3d2cd0c601b248da25">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-drawable-1.5.0_a75e96b709b24ec79fca5df8f9261eeb81a2d40a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,12 +273,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_1437486b4d59526d053009d61b8e6db1f6009d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jinke/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Users/jinke/RN/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_cfd788e002c34e1fa926f3b90942f58d35fc1733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f804cb10982b7fe7a5749e9b42324eba7a5085e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_a8d02bec339d786f6c6022d8e7147ed37df5a94a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c8ae2e15e80f33a8a39b2d8e9b1fceacc527cda0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -207,6 +360,24 @@
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/Users/jinke/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_27d629bd68ab5c34a05211493f45c0876427396a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3cc36f756ce8a7ca14302d8e5331b56ce3661708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinke/github/RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c6d36281ce1c28ebeb58155c3ceac425dcec5e2">
+        <dex dex="/Users/jinke/github/RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.5.0_d175f19eccbd48e83ced9d53d18de07b195de9ae.jar" />
     </item>
     <item
         is-multidex="false"
